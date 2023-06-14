@@ -10,6 +10,6 @@
 
 ![Lightning everywhere - Bitcoin Ljubljana July 2022](/Lightning-everywhere.pdf)
 
-![Bitcoin privacy overview for students  in El Salvador 2021](/ElSalvador-bitcoin-privacy.pdf)
+![Bitcoin privacy overview for students  in El Salvador  November 2021](/ElSalvador-bitcoin-privacy.pdf)
 
-![Bitcoin Ljubljana 2021 October Meetup - Lightning node operators guide](/BitcoinLjubljana2021-lightning-node-operators-guide.pdf)
+![Lightning node operators guide - Bitcoin Ljubljana October 2021](/BitcoinLjubljana2021-lightning-node-operators-guide.pdf)
